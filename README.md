@@ -128,7 +128,9 @@ Windows installer is also available from:
 * [ ![Scoop Extras bucket](https://img.shields.io/scoop/v/klogg?bucket=extras)](https://scoopsearch.github.io/#/apps?q=klogg)
 * [Winget package](https://winget.run/pkg/variar/klogg)
 
- 
+ 1. ![Assets](https://github.com/davoodalavi/klogg/blob/master/src/app/images/install1png.png)
+ 2. ![Assets](https://github.com/davoodalavi/klogg/blob/master/src/app/images/install2.png)
+ 3. ![Assets](https://github.com/davoodalavi/klogg/blob/master/src/app/images/install3.png)
 
 #### Mac OS
 Package for Mac can be installed from Homebrew
