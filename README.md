@@ -117,6 +117,10 @@ Binaries for all platforms can be downloaded from GitHub releases.
 
 [ ![Release](https://img.shields.io/github/v/release/variar/klogg?style=flat)](https://github.com/variar/klogg/releases/latest)
 
+Scroll to the bottom of the page to see assets. Select the correct file for your system and download.
+
+![Assets](https://github.com/davoodalavi/klogg/blob/master/src/app/images/installerkolgg.png)
+
 #### Windows
 Windows installer is also available from:
 
