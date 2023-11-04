@@ -126,12 +126,20 @@ Windows installer is also available from:
 
 * [ ![Chocolatey](https://img.shields.io/chocolatey/v/klogg?style=flat)](https://chocolatey.org/packages/klogg)
 * [ ![Scoop Extras bucket](https://img.shields.io/scoop/v/klogg?bucket=extras)](https://scoopsearch.github.io/#/apps?q=klogg)
-* [Winget package](https://winget.run/pkg/variar/klogg) 
+* [Winget package](https://winget.run/pkg/variar/klogg)
+
+ 
 
 #### Mac OS
 Package for Mac can be installed from Homebrew
 
 [ ![homebrew cask](https://img.shields.io/homebrew/cask/v/klogg?style=flat)](https://formulae.brew.sh/cask/klogg)
+
+1. Open Terminal
+2. Enter the following command: 
+   ```
+    brew install --cask klogg
+   ```
 
 #### Linux
 It is recommended to use klogg package from distribution-specific [repositories](https://repology.org/project/klogg/versions).
